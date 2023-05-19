@@ -6,8 +6,7 @@
   <img src="https://raw.githubusercontent.com/" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
+Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. 
  🔭 I’m planning for a Project **Vision: **.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's and Prompting
@@ -75,11 +74,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/)
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [](https://github.com/)
 
 [website]: https://
 [youtube]: https://youtube.com/@Fiv3yes
