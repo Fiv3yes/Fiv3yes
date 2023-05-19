@@ -69,7 +69,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/)
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Blog Cards](https://github-cards-external-blogs.)](https://medium.com/@)
+[![Blog Cards](https://github-cards-external-blogs.)](https://medium.com/@Fiv3yes)
 
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com//Github-Cards-External-Blogs) 
 
