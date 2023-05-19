@@ -7,6 +7,7 @@
 </p>
 
 Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. 
+
  🔭 I’m planning for a Project **Vision: **.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's and Prompting
@@ -17,7 +18,7 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
  💬 Ask us about Full Stack Development, Cloud, Cyber Security, Penetration Testing, Ethical Hacking and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/)  <img src="https://img.shields.io/github/followers/?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
