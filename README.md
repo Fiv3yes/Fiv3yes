@@ -16,9 +16,6 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
  💬 Happy to talk, discuss and share: Front End and Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence, Ethical Hacking plus most Tech-related stuff.
 
 
-![Profile views]
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
-
 ---
 
 
