@@ -6,13 +6,14 @@
   <img src="https://raw.githubusercontent.com/" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. Love to tinker & fiddle with all things tech related. 
+Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along, to see where it all ends up. Showcasing content that wasn't readily available a few years ago. Love to tinker & fiddle with all things tech related. 
 
  🔭 I’m planning to tackle the **Web Security Academy**
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's, AI and Prompting.
+ 🌱 I’m currently learning **React, API's, A.I. and Prompting**
  
- 💬 Happy to talk and share about: Full Stack Development, Cloud, Cyber Security, Penetration Testing, AI, Ethical Hacking plus any Tech-related stuff.
+ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+ 💬 Happy to talk, discuss and share: Front End and Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence, Ethical Hacking plus most Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/)  <img src="https://img.shields.io/github/followers/?label=Follow" style=" float:left, margin-right:10px" />
