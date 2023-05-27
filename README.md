@@ -16,7 +16,7 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
  💬 Happy to talk, discuss and share: Front End and Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence, Ethical Hacking plus most Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/)  <img src="https://img.shields.io/github/followers/?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views]
 https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 ---
