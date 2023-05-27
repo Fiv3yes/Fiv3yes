@@ -1,4 +1,4 @@
-## Welcome to Fiv3yes 👋 👀
+# Welcome to Fiv3yes 👋 👀
 
 ---
 
@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. 
+Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. Love to tinker & fiddle with all things tech related. 
 
- 🔭 I’m planning for a Project **Vision: **.
+ 🔭 I’m planning to learn **React** 
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's and Prompting
   
