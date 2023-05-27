@@ -81,34 +81,9 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white">
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white">
 
- <br>                                                                                                     
+                                                                                                     
                                                                                                     
 ---
-
-
-
----
-
-
-### You can find in me in the web 🌍
-
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/
-[<img align="left" alt=" | Medium" width="22px" src="https:/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https:/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br/>
-
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Blog Cards](https://github-cards-external-blogs.)](https://medium.com/@Fiv3yes)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com//Github-Cards-External-Blogs) 
-
----
-
 
 
 :star: From [](https://github.com/)
@@ -116,4 +91,6 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 [website]: https://fiv3yes.company.site
 [youtube]: https://youtube.com/@Fiv3yes
 [linkedin]: https://www.linkedin.com/
-[medium]: https://medium.com/
+[medium]: https://medium.com/@Fiv3yes
+
+
