@@ -8,14 +8,11 @@
 
 Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along. Showcasing content that wasn't readily available a few years ago. Love to tinker & fiddle with all things tech related. 
 
- 🔭 I’m planning to learn **React** 
+ 🔭 I’m planning to learn **OWASP ZAP**
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's and Prompting
-  
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> React, API's, AI and Prompting.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com//Github-Cards-External-Blogs).
- 
- 💬 Ask us about Full Stack Development, Cloud, Cyber Security, Penetration Testing, Ethical Hacking and any Tech-related stuff.
+ 💬 Happy to talk and share about: Full Stack Development, Cloud, Cyber Security, Penetration Testing, AI, Ethical Hacking plus any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/)  <img src="https://img.shields.io/github/followers/?label=Follow" style=" float:left, margin-right:10px" />
