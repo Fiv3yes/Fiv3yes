@@ -58,7 +58,6 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
