@@ -82,25 +82,19 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white">
 
  <br>                                                                                                     
-                                                                                                      
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
-
-
-<br>
-
+                                                                                                    
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/)
 
 ---
 
 
 ### You can find in me in the web 🌍
+
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/
-[<img align="left" alt=" | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Medium" width="22px" src="https:/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https:/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br/>
