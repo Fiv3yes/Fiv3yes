@@ -17,7 +17,7 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 
 
 ![Profile views]
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
 
 ---
 
