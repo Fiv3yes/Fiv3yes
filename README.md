@@ -16,7 +16,7 @@ Following my intuition down the technology rabbit hole 🕳🐇 documenting as I
 
 
 ![Profile views](https://gpvc.arturio.dev/)  <img src="https://img.shields.io/github/followers/?label=Follow" style=" float:left, margin-right:10px" />
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 ---
 
