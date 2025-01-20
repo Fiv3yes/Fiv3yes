@@ -6,13 +6,14 @@
   <img src="https://raw.githubusercontent.com/" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Following my intuition down the Web 2 & Web 3 rabbit holes 🕳🐇. Building, testing & creating applications as I learn, to see how it all ends up.  
+Following my intuition down the Web 2 & Web 3 rabbit holes 🕳 🐇 
+Building, testing & creating applications as I learn, to see how it all works out.  
  
- 🧐 Currently learning **React, API's, A.I., Typescript, Solidity and Prompting**
+ 🧐 Currently learning **React, MongoDB, API's, A.I., Solidity and Prompting**
  
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
  
- 💬 Happy to discuss offers and or work related to: Front End / Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence.
+ 💬 Happy to discuss project offers or jobs related to: Front End / Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence.
 
 
 ---
