@@ -6,14 +6,13 @@
   <img src="https://raw.githubusercontent.com/" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Following my intuition down the technology rabbit hole 🕳🐇 documenting as I go along, to see where it all ends up. Showcasing content that wasn't readily available a few years ago. Love to tinker & fiddle with all things tech related. 
-
- 🔭 I’m planning to tackle the **Web Security Academy**
+Following my intuition down the Web 2 & Web 3 rabbit holes 🕳🐇. Building, testing & creating applications as I learn, to see how it all ends up.  
  
- 🌱 I’m currently learning **React, API's, A.I. and Prompting**
+ 🧐 Currently learning **React, API's, A.I., Typescript, Solidity and Prompting**
  
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
- 💬 Happy to talk, discuss and share: Front End and Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence, Ethical Hacking plus most Tech-related stuff.
+ 
+ 💬 Happy to discuss offers and or work related to: Front End / Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence.
 
 
 ---
