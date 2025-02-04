@@ -9,11 +9,11 @@
 Following my intuition down the Web 2 & Web 3 rabbit holes 🕳 🐇 
 Building, testing & creating applications as I learn, to see how it all works out.  
  
- 🧐 Currently learning **React, MongoDB, API's, A.I., Solidity and Prompting**
+ 🧐 Currently learning **React, MongoDB, API's, A.I., Prompting and Solidity**
  
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
  
- 💬 Happy to discuss project offers or jobs related to: Front End / Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence.
+ 💬 Happy to discuss project offers or positions (hybrid - fully remote) related to: Front End / Back End Development, Cloud, Cyber Security, Penetration Testing, Artificial Intelligence.
 
 
 ---
@@ -43,7 +43,6 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
@@ -61,7 +60,6 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white">
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white">
