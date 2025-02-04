@@ -26,23 +26,18 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white">
@@ -52,7 +47,6 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
@@ -60,10 +54,8 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white">
 <img src="https://img.shields.io/badge/Linode-00A95C?style=flat&logo=Linode&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flatlogo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
-<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat&logo=gnu-emacs&logoColor=white">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white">
@@ -72,14 +64,8 @@ Building, testing & creating applications as I learn, to see how it all works ou
 <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white">
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/powershell-5391FE?style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white">
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat&logo=Brave&logoColor=white">
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white">
-<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white">
+
 
                                                                                                      
                                                                                                     
@@ -90,7 +76,7 @@ Building, testing & creating applications as I learn, to see how it all works ou
 
 [website]: https://fiv3yes.company.site
 [youtube]: https://youtube.com/@Fiv3yes
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/@Fiv3yes
 [medium]: https://medium.com/@Fiv3yes
 
 
